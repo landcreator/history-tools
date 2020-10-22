@@ -8,3 +8,4 @@ package-lock.json
 _book
 *.o
 /CMakeLists.txt.user
+.idea
